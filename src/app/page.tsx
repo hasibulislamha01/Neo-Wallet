@@ -1,8 +1,8 @@
 
 export default function Home() {
   return (
-    <section>
-      <h1>hello world</h1>
+    <section className="min-h-screen bg-green-50">
+      <h1>Home </h1>
     </section>
   );
 }
